@@ -17,14 +17,15 @@
 </div>
 <h2 align="left">Hi 👋! My name is Paing Kyaw Moe and I'm a Full stack Developer, from Myanmar.</h2>
 
-## 🟡 Pac-Man Eating My Contributions
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman.svg">
-    <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paingkyawmoe/paingkyawmoe/output/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paingkyawmoe/paingkyawmoe/output/pacman.svg">
+    <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/paingkyawmoe/paingkyawmoe/output/pacman.svg">
   </picture>
 </p>
+
 
 
 
